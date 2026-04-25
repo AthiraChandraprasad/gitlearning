@@ -1,0 +1,9 @@
+this is my first line in f1 file that pushed to gitlearning git account
+
+exit()
+ls
+cls
+
+ hi
+ welcome
+
