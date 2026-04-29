@@ -7,3 +7,5 @@ cls
  hi
  welcome
 
+welcome to scope india
+
