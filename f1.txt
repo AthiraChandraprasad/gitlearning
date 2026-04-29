@@ -1,11 +1,18 @@
 this is my first line in f1 file that pushed to gitlearning git account
 
+<<<<<<< HEAD
 exit()
 ls
 cls
 
- hi
- welcome
 
 welcome to scope india
 
+=======
+exit()
+ls
+cls
+
+
+
+>>>>>>> 17c9dcbf9b25dcdee59c16af3f598be1db1a353a
